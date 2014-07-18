@@ -4,9 +4,9 @@
   children: [
     {
       count: 3,
-      title: 'name|person',
-      age: 'd(18,80)',
-      type: 'string(main,secondary,super,last)'
+      title: '{{ name|person }}',
+      age: '{{ d(18,80) }}',
+      type: '{{ string(main,secondary,super,last) }} '
     }
   ]
 
