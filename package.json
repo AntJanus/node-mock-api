@@ -10,7 +10,7 @@
     "async": "0.7.x",
     "express": "3.4.3",
     "json-structure-validator": "0.0.x",
-    "lodash": "2.4.1",
+    "lodash": "2.4.1"
   },
   "devDependencies": {
     "coveralls": "^2.10.1",
